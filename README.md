@@ -311,31 +311,6 @@ Two-dimensional visualization showing seasonal category performance patterns.
 
 ---
 
-## How to Run This Project
-
-### Prerequisites
-```bash
-Python 3.8+
-Required packages:
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - sqlite3
-  - jupyter
-```
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/sales-performance-analysis.git
-
-# Navigate to project directory
-cd sales-performance-analysis
-
-# Install required packages
-pip install -r requirements.txt
-```
 
 ### Running the Analysis
 ```bash
@@ -378,42 +353,3 @@ jupyter notebook
 - Marketing channel attribution
 
 ---
-
-## Skills Showcased
-
-This project demonstrates proficiency in:
-
-- **Data Cleaning**: Handling missing values, duplicates, and data quality issues
-- **Statistical Analysis**: Descriptive statistics, trend analysis, pattern recognition
-- **Python Programming**: Pandas, NumPy, data manipulation, and automation
-- **Data Visualization**: Creating professional, publication-ready charts
-- **SQL**: Database querying, aggregations, and complex analysis
-- **Business Acumen**: Translating data insights into actionable recommendations
-- **Project Organization**: Clean code structure, documentation, and reproducibility
-
----
-
-## Contact Information
-
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-**Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-## License
-
-This project is available under the MIT License. See LICENSE file for details.
-
----
-
-## Acknowledgments
-
-This project uses synthetic data created specifically for portfolio demonstration purposes. All analyses, insights, and recommendations are based on this simulated dataset and are intended to showcase analytical capabilities rather than represent real business scenarios.
-
----
-
-**Last Updated**: February 2026  
-**Project Status**: Complete and Portfolio-Ready
